@@ -1,0 +1,5 @@
+{
+  "name": "Verification App",
+  "description": "A simple app to verify a user with a code and display a success message.",
+  "requestFramePermissions": []
+}
